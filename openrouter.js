@@ -1,3 +1,5 @@
+// ofcourse, better just use; curl https://openrouter.ai/api/v1/models
+
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
