@@ -1,0 +1,3282 @@
+{
+  "timestamp": "2025-03-25T09:02:06.666Z",
+  "totalModels": 364,
+  "models": [
+    {
+      "name": "Qwen: Qwen2.5 VL 32B Instruct (free)",
+      "href": "/qwen/qwen2.5-vl-32b-instruct:free",
+      "code": "qwen/qwen2.5-vl-32b-instruct:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "DeepSeek: DeepSeek V3 0324 (free)",
+      "href": "/deepseek/deepseek-chat-v3-0324:free",
+      "code": "deepseek/deepseek-chat-v3-0324:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "DeepSeek: DeepSeek V3 0324",
+      "href": "/deepseek/deepseek-chat-v3-0324",
+      "code": "deepseek/deepseek-chat-v3-0324",
+      "prices": [
+        27,
+        110.00000000000001
+      ]
+    },
+    {
+      "name": "OpenAI: o1-pro",
+      "href": "/openai/o1-pro",
+      "code": "openai/o1-pro",
+      "prices": [
+        15000,
+        60000
+      ]
+    },
+    {
+      "name": "Mistral: Mistral Small 3.1 24B (free)",
+      "href": "/mistralai/mistral-small-3.1-24b-instruct:free",
+      "code": "mistralai/mistral-small-3.1-24b-instruct:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Mistral: Mistral Small 3.1 24B",
+      "href": "/mistralai/mistral-small-3.1-24b-instruct",
+      "code": "mistralai/mistral-small-3.1-24b-instruct",
+      "prices": [
+        10,
+        30
+      ]
+    },
+    {
+      "name": "OlympicCoder 7B (free)",
+      "href": "/open-r1/olympiccoder-7b:free",
+      "code": "open-r1/olympiccoder-7b:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "OlympicCoder 32B (free)",
+      "href": "/open-r1/olympiccoder-32b:free",
+      "code": "open-r1/olympiccoder-32b:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "SteelSkull: L3.3 Electra R1 70B",
+      "href": "/steelskull/l3.3-electra-r1-70b",
+      "code": "steelskull/l3.3-electra-r1-70b",
+      "prices": [
+        70,
+        70
+      ]
+    },
+    {
+      "name": "AllenAI: Olmo 2 32B Instruct",
+      "href": "/allenai/olmo-2-0325-32b-instruct",
+      "code": "allenai/olmo-2-0325-32b-instruct",
+      "prices": [
+        100,
+        150
+      ]
+    },
+    {
+      "name": "Google: Gemma 3 1B (free)",
+      "href": "/google/gemma-3-1b-it:free",
+      "code": "google/gemma-3-1b-it:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Google: Gemma 3 4B (free)",
+      "href": "/google/gemma-3-4b-it:free",
+      "code": "google/gemma-3-4b-it:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "AI21: Jamba 1.6 Large",
+      "href": "/ai21/jamba-1.6-large",
+      "code": "ai21/jamba-1.6-large",
+      "prices": [
+        200,
+        800
+      ]
+    },
+    {
+      "name": "AI21: Jamba Mini 1.6",
+      "href": "/ai21/jamba-1.6-mini",
+      "code": "ai21/jamba-1.6-mini",
+      "prices": [
+        20,
+        40
+      ]
+    },
+    {
+      "name": "Google: Gemma 3 12B (free)",
+      "href": "/google/gemma-3-12b-it:free",
+      "code": "google/gemma-3-12b-it:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Cohere: Command A",
+      "href": "/cohere/command-a",
+      "code": "cohere/command-a",
+      "prices": [
+        250,
+        1000
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-4o-mini Search Preview",
+      "href": "/openai/gpt-4o-mini-search-preview",
+      "code": "openai/gpt-4o-mini-search-preview",
+      "prices": [
+        15,
+        60
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-4o Search Preview",
+      "href": "/openai/gpt-4o-search-preview",
+      "code": "openai/gpt-4o-search-preview",
+      "prices": [
+        250,
+        1000
+      ]
+    },
+    {
+      "name": "Swallow: Llama 3.1 Swallow 70B Instruct V0.3",
+      "href": "/tokyotech-llm/llama-3.1-swallow-70b-instruct-v0.3",
+      "code": "tokyotech-llm/llama-3.1-swallow-70b-instruct-v0.3",
+      "prices": [
+        60,
+        120
+      ]
+    },
+    {
+      "name": "Reka: Flash 3 (free)",
+      "href": "/rekaai/reka-flash-3:free",
+      "code": "rekaai/reka-flash-3:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Google: Gemma 3 27B (free)",
+      "href": "/google/gemma-3-27b-it:free",
+      "code": "google/gemma-3-27b-it:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Google: Gemma 3 27B",
+      "href": "/google/gemma-3-27b-it",
+      "code": "google/gemma-3-27b-it",
+      "prices": [
+        30,
+        50
+      ]
+    },
+    {
+      "name": "TheDrummer: Anubis Pro 105B V1",
+      "href": "/thedrummer/anubis-pro-105b-v1",
+      "code": "thedrummer/anubis-pro-105b-v1",
+      "prices": [
+        80,
+        80
+      ]
+    },
+    {
+      "name": "LatitudeGames: Wayfarer Large 70B Llama 3.3",
+      "href": "/latitudegames/wayfarer-large-70b-llama-3.3",
+      "code": "latitudegames/wayfarer-large-70b-llama-3.3",
+      "prices": [
+        70,
+        70
+      ]
+    },
+    {
+      "name": "TheDrummer: Skyfall 36B V2",
+      "href": "/thedrummer/skyfall-36b-v2",
+      "code": "thedrummer/skyfall-36b-v2",
+      "prices": [
+        50,
+        50
+      ]
+    },
+    {
+      "name": "Microsoft: Phi 4 Multimodal Instruct",
+      "href": "/microsoft/phi-4-multimodal-instruct",
+      "code": "microsoft/phi-4-multimodal-instruct",
+      "prices": [
+        5,
+        10
+      ]
+    },
+    {
+      "name": "Perplexity: Sonar Reasoning Pro",
+      "href": "/perplexity/sonar-reasoning-pro",
+      "code": "perplexity/sonar-reasoning-pro",
+      "prices": [
+        200,
+        800
+      ]
+    },
+    {
+      "name": "Perplexity: Sonar Pro",
+      "href": "/perplexity/sonar-pro",
+      "code": "perplexity/sonar-pro",
+      "prices": [
+        300,
+        1500
+      ]
+    },
+    {
+      "name": "Perplexity: Sonar Deep Research",
+      "href": "/perplexity/sonar-deep-research",
+      "code": "perplexity/sonar-deep-research",
+      "prices": [
+        200,
+        800
+      ]
+    },
+    {
+      "name": "DeepSeek: DeepSeek R1 Zero (free)",
+      "href": "/deepseek/deepseek-r1-zero:free",
+      "code": "deepseek/deepseek-r1-zero:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Qwen: QwQ 32B (free)",
+      "href": "/qwen/qwq-32b:free",
+      "code": "qwen/qwq-32b:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Qwen: QwQ 32B",
+      "href": "/qwen/qwq-32b",
+      "code": "qwen/qwq-32b",
+      "prices": [
+        12,
+        18
+      ]
+    },
+    {
+      "name": "Qwen: Qwen2.5 32B Instruct",
+      "href": "/qwen/qwen2.5-32b-instruct",
+      "code": "qwen/qwen2.5-32b-instruct",
+      "prices": [
+        79,
+        79
+      ]
+    },
+    {
+      "name": "Moonshot AI: Moonlight 16B A3B Instruct (free)",
+      "href": "/moonshotai/moonlight-16b-a3b-instruct:free",
+      "code": "moonshotai/moonlight-16b-a3b-instruct:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Nous: DeepHermes 3 Llama 3 8B Preview (free)",
+      "href": "/nousresearch/deephermes-3-llama-3-8b-preview:free",
+      "code": "nousresearch/deephermes-3-llama-3-8b-preview:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-4.5 (Preview)",
+      "href": "/openai/gpt-4.5-preview",
+      "code": "openai/gpt-4.5-preview",
+      "prices": [
+        7500,
+        15000
+      ]
+    },
+    {
+      "name": "Google: Gemini 2.0 Flash Lite",
+      "href": "/google/gemini-2.0-flash-lite-001",
+      "code": "google/gemini-2.0-flash-lite-001",
+      "prices": [
+        7.5,
+        30
+      ]
+    },
+    {
+      "name": "Anthropic: Claude 3.7 Sonnet (self-moderated)",
+      "href": "/anthropic/claude-3.7-sonnet:beta",
+      "code": "anthropic/claude-3.7-sonnet:beta",
+      "prices": [
+        300,
+        1500
+      ]
+    },
+    {
+      "name": "Anthropic: Claude 3.7 Sonnet",
+      "href": "/anthropic/claude-3.7-sonnet",
+      "code": "anthropic/claude-3.7-sonnet",
+      "prices": [
+        300,
+        1500
+      ]
+    },
+    {
+      "name": "Anthropic: Claude 3.7 Sonnet (thinking)",
+      "href": "/anthropic/claude-3.7-sonnet:thinking",
+      "code": "anthropic/claude-3.7-sonnet:thinking",
+      "prices": [
+        300,
+        1500
+      ]
+    },
+    {
+      "name": "Perplexity: R1 1776",
+      "href": "/perplexity/r1-1776",
+      "code": "perplexity/r1-1776",
+      "prices": [
+        200,
+        800
+      ]
+    },
+    {
+      "name": "Mistral: Saba",
+      "href": "/mistralai/mistral-saba",
+      "code": "mistralai/mistral-saba",
+      "prices": [
+        20,
+        60
+      ]
+    },
+    {
+      "name": "Dolphin3.0 R1 Mistral 24B (free)",
+      "href": "/cognitivecomputations/dolphin3.0-r1-mistral-24b:free",
+      "code": "cognitivecomputations/dolphin3.0-r1-mistral-24b:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Dolphin3.0 Mistral 24B (free)",
+      "href": "/cognitivecomputations/dolphin3.0-mistral-24b:free",
+      "code": "cognitivecomputations/dolphin3.0-mistral-24b:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Llama Guard 3 8B",
+      "href": "/meta-llama/llama-guard-3-8b",
+      "code": "meta-llama/llama-guard-3-8b",
+      "prices": [
+        20,
+        20
+      ]
+    },
+    {
+      "name": "OpenAI: o3 Mini High",
+      "href": "/openai/o3-mini-high",
+      "code": "openai/o3-mini-high",
+      "prices": [
+        110.00000000000001,
+        440.00000000000006
+      ]
+    },
+    {
+      "name": "Llama 3.1 Tulu 3 405B",
+      "href": "/allenai/llama-3.1-tulu-3-405b",
+      "code": "allenai/llama-3.1-tulu-3-405b",
+      "prices": [
+        500,
+        1000
+      ]
+    },
+    {
+      "name": "DeepSeek: R1 Distill Llama 8B",
+      "href": "/deepseek/deepseek-r1-distill-llama-8b",
+      "code": "deepseek/deepseek-r1-distill-llama-8b",
+      "prices": [
+        4,
+        4
+      ]
+    },
+    {
+      "name": "Google: Gemini Flash 2.0",
+      "href": "/google/gemini-2.0-flash-001",
+      "code": "google/gemini-2.0-flash-001",
+      "prices": [
+        10,
+        40
+      ]
+    },
+    {
+      "name": "Google: Gemini Flash Lite 2.0 Preview (free)",
+      "href": "/google/gemini-2.0-flash-lite-preview-02-05:free",
+      "code": "google/gemini-2.0-flash-lite-preview-02-05:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Google: Gemini Pro 2.0 Experimental (free)",
+      "href": "/google/gemini-2.0-pro-exp-02-05:free",
+      "code": "google/gemini-2.0-pro-exp-02-05:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Qwen: Qwen VL Plus",
+      "href": "/qwen/qwen-vl-plus",
+      "code": "qwen/qwen-vl-plus",
+      "prices": [
+        21,
+        63
+      ]
+    },
+    {
+      "name": "AionLabs: Aion-1.0",
+      "href": "/aion-labs/aion-1.0",
+      "code": "aion-labs/aion-1.0",
+      "prices": [
+        400,
+        800
+      ]
+    },
+    {
+      "name": "AionLabs: Aion-1.0-Mini",
+      "href": "/aion-labs/aion-1.0-mini",
+      "code": "aion-labs/aion-1.0-mini",
+      "prices": [
+        70,
+        140
+      ]
+    },
+    {
+      "name": "AionLabs: Aion-RP 1.0 (8B)",
+      "href": "/aion-labs/aion-rp-llama-3.1-8b",
+      "code": "aion-labs/aion-rp-llama-3.1-8b",
+      "prices": [
+        20,
+        20
+      ]
+    },
+    {
+      "name": "Qwen: Qwen VL Max",
+      "href": "/qwen/qwen-vl-max",
+      "code": "qwen/qwen-vl-max",
+      "prices": [
+        80,
+        320
+      ]
+    },
+    {
+      "name": "Qwen: Qwen-Turbo",
+      "href": "/qwen/qwen-turbo",
+      "code": "qwen/qwen-turbo",
+      "prices": [
+        5,
+        20
+      ]
+    },
+    {
+      "name": "Qwen: Qwen2.5 VL 72B Instruct (free)",
+      "href": "/qwen/qwen2.5-vl-72b-instruct:free",
+      "code": "qwen/qwen2.5-vl-72b-instruct:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Qwen: Qwen2.5 VL 72B Instruct",
+      "href": "/qwen/qwen2.5-vl-72b-instruct",
+      "code": "qwen/qwen2.5-vl-72b-instruct",
+      "prices": [
+        70,
+        70
+      ]
+    },
+    {
+      "name": "Qwen: Qwen-Plus",
+      "href": "/qwen/qwen-plus",
+      "code": "qwen/qwen-plus",
+      "prices": [
+        40,
+        120
+      ]
+    },
+    {
+      "name": "Qwen: Qwen-Max",
+      "href": "/qwen/qwen-max",
+      "code": "qwen/qwen-max",
+      "prices": [
+        160,
+        640
+      ]
+    },
+    {
+      "name": "OpenAI: o3 Mini",
+      "href": "/openai/o3-mini",
+      "code": "openai/o3-mini",
+      "prices": [
+        110.00000000000001,
+        440.00000000000006
+      ]
+    },
+    {
+      "name": "DeepSeek: R1 Distill Qwen 1.5B",
+      "href": "/deepseek/deepseek-r1-distill-qwen-1.5b",
+      "code": "deepseek/deepseek-r1-distill-qwen-1.5b",
+      "prices": [
+        18,
+        18
+      ]
+    },
+    {
+      "name": "Mistral: Mistral Small 3 (free)",
+      "href": "/mistralai/mistral-small-24b-instruct-2501:free",
+      "code": "mistralai/mistral-small-24b-instruct-2501:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Mistral: Mistral Small 3",
+      "href": "/mistralai/mistral-small-24b-instruct-2501",
+      "code": "mistralai/mistral-small-24b-instruct-2501",
+      "prices": [
+        7.000000000000001,
+        14.000000000000002
+      ]
+    },
+    {
+      "name": "DeepSeek: R1 Distill Qwen 32B (free)",
+      "href": "/deepseek/deepseek-r1-distill-qwen-32b:free",
+      "code": "deepseek/deepseek-r1-distill-qwen-32b:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "DeepSeek: R1 Distill Qwen 32B",
+      "href": "/deepseek/deepseek-r1-distill-qwen-32b",
+      "code": "deepseek/deepseek-r1-distill-qwen-32b",
+      "prices": [
+        12,
+        18
+      ]
+    },
+    {
+      "name": "DeepSeek: R1 Distill Qwen 14B (free)",
+      "href": "/deepseek/deepseek-r1-distill-qwen-14b:free",
+      "code": "deepseek/deepseek-r1-distill-qwen-14b:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "DeepSeek: R1 Distill Qwen 14B",
+      "href": "/deepseek/deepseek-r1-distill-qwen-14b",
+      "code": "deepseek/deepseek-r1-distill-qwen-14b",
+      "prices": [
+        15,
+        15
+      ]
+    },
+    {
+      "name": "Perplexity: Sonar Reasoning",
+      "href": "/perplexity/sonar-reasoning",
+      "code": "perplexity/sonar-reasoning",
+      "prices": [
+        100,
+        500
+      ]
+    },
+    {
+      "name": "Perplexity: Sonar",
+      "href": "/perplexity/sonar",
+      "code": "perplexity/sonar",
+      "prices": [
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Liquid: LFM 7B",
+      "href": "/liquid/lfm-7b",
+      "code": "liquid/lfm-7b",
+      "prices": [
+        1,
+        1
+      ]
+    },
+    {
+      "name": "Liquid: LFM 3B",
+      "href": "/liquid/lfm-3b",
+      "code": "liquid/lfm-3b",
+      "prices": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "DeepSeek: R1 Distill Llama 70B (free)",
+      "href": "/deepseek/deepseek-r1-distill-llama-70b:free",
+      "code": "deepseek/deepseek-r1-distill-llama-70b:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "DeepSeek: R1 Distill Llama 70B",
+      "href": "/deepseek/deepseek-r1-distill-llama-70b",
+      "code": "deepseek/deepseek-r1-distill-llama-70b",
+      "prices": [
+        23,
+        69
+      ]
+    },
+    {
+      "name": "Google: Gemini 2.0 Flash Thinking Experimental 01-21 (free)",
+      "href": "/google/gemini-2.0-flash-thinking-exp:free",
+      "code": "google/gemini-2.0-flash-thinking-exp:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "DeepSeek: R1 (free)",
+      "href": "/deepseek/deepseek-r1:free",
+      "code": "deepseek/deepseek-r1:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "DeepSeek: R1",
+      "href": "/deepseek/deepseek-r1",
+      "code": "deepseek/deepseek-r1",
+      "prices": [
+        55.00000000000001,
+        219
+      ]
+    },
+    {
+      "name": "Rogue Rose 103B v0.2 (free)",
+      "href": "/sophosympatheia/rogue-rose-103b-v0.2:free",
+      "code": "sophosympatheia/rogue-rose-103b-v0.2:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "MiniMax: MiniMax-01",
+      "href": "/minimax/minimax-01",
+      "code": "minimax/minimax-01",
+      "prices": [
+        20,
+        110.00000000000001
+      ]
+    },
+    {
+      "name": "Mistral: Codestral 2501",
+      "href": "/mistralai/codestral-2501",
+      "code": "mistralai/codestral-2501",
+      "prices": [
+        30,
+        90
+      ]
+    },
+    {
+      "name": "Microsoft: Phi 4",
+      "href": "/microsoft/phi-4",
+      "code": "microsoft/phi-4",
+      "prices": [
+        7.000000000000001,
+        14.000000000000002
+      ]
+    },
+    {
+      "name": "Sao10K: Llama 3.1 70B Hanami x1",
+      "href": "/sao10k/l3.1-70b-hanami-x1",
+      "code": "sao10k/l3.1-70b-hanami-x1",
+      "prices": [
+        300,
+        300
+      ]
+    },
+    {
+      "name": "DeepSeek: DeepSeek V3 (free)",
+      "href": "/deepseek/deepseek-chat:free",
+      "code": "deepseek/deepseek-chat:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "DeepSeek: DeepSeek V3",
+      "href": "/deepseek/deepseek-chat",
+      "code": "deepseek/deepseek-chat",
+      "prices": [
+        40,
+        89
+      ]
+    },
+    {
+      "name": "Google: Gemini 2.0 Flash Thinking Experimental (free)",
+      "href": "/google/gemini-2.0-flash-thinking-exp-1219:free",
+      "code": "google/gemini-2.0-flash-thinking-exp-1219:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Sao10K: Llama 3.3 Euryale 70B",
+      "href": "/sao10k/l3.3-euryale-70b",
+      "code": "sao10k/l3.3-euryale-70b",
+      "prices": [
+        70,
+        80
+      ]
+    },
+    {
+      "name": "OpenAI: o1",
+      "href": "/openai/o1",
+      "code": "openai/o1",
+      "prices": [
+        1500,
+        6000
+      ]
+    },
+    {
+      "name": "EVA Llama 3.33 70B",
+      "href": "/eva-unit-01/eva-llama-3.33-70b",
+      "code": "eva-unit-01/eva-llama-3.33-70b",
+      "prices": [
+        400,
+        600
+      ]
+    },
+    {
+      "name": "xAI: Grok 2 Vision 1212",
+      "href": "/x-ai/grok-2-vision-1212",
+      "code": "x-ai/grok-2-vision-1212",
+      "prices": [
+        200,
+        1000
+      ]
+    },
+    {
+      "name": "xAI: Grok 2 1212",
+      "href": "/x-ai/grok-2-1212",
+      "code": "x-ai/grok-2-1212",
+      "prices": [
+        200,
+        1000
+      ]
+    },
+    {
+      "name": "Cohere: Command R7B (12-2024)",
+      "href": "/cohere/command-r7b-12-2024",
+      "code": "cohere/command-r7b-12-2024",
+      "prices": [
+        3.75,
+        15
+      ]
+    },
+    {
+      "name": "Google: Gemini Flash 2.0 Experimental (free)",
+      "href": "/google/gemini-2.0-flash-exp:free",
+      "code": "google/gemini-2.0-flash-exp:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Google: Gemini Experimental 1206 (free)",
+      "href": "/google/gemini-exp-1206:free",
+      "code": "google/gemini-exp-1206:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Meta: Llama 3.3 70B Instruct (free)",
+      "href": "/meta-llama/llama-3.3-70b-instruct:free",
+      "code": "meta-llama/llama-3.3-70b-instruct:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Meta: Llama 3.3 70B Instruct",
+      "href": "/meta-llama/llama-3.3-70b-instruct",
+      "code": "meta-llama/llama-3.3-70b-instruct",
+      "prices": [
+        12,
+        30
+      ]
+    },
+    {
+      "name": "Amazon: Nova Lite 1.0",
+      "href": "/amazon/nova-lite-v1",
+      "code": "amazon/nova-lite-v1",
+      "prices": [
+        6,
+        24
+      ]
+    },
+    {
+      "name": "Amazon: Nova Micro 1.0",
+      "href": "/amazon/nova-micro-v1",
+      "code": "amazon/nova-micro-v1",
+      "prices": [
+        3.5000000000000004,
+        14.000000000000002
+      ]
+    },
+    {
+      "name": "Amazon: Nova Pro 1.0",
+      "href": "/amazon/nova-pro-v1",
+      "code": "amazon/nova-pro-v1",
+      "prices": [
+        80,
+        320
+      ]
+    },
+    {
+      "name": "Qwen: QwQ 32B Preview (free)",
+      "href": "/qwen/qwq-32b-preview:free",
+      "code": "qwen/qwq-32b-preview:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Qwen: QwQ 32B Preview",
+      "href": "/qwen/qwq-32b-preview",
+      "code": "qwen/qwq-32b-preview",
+      "prices": [
+        20,
+        20
+      ]
+    },
+    {
+      "name": "Google: LearnLM 1.5 Pro Experimental (free)",
+      "href": "/google/learnlm-1.5-pro-experimental:free",
+      "code": "google/learnlm-1.5-pro-experimental:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "EVA Qwen2.5 72B",
+      "href": "/eva-unit-01/eva-qwen-2.5-72b",
+      "code": "eva-unit-01/eva-qwen-2.5-72b",
+      "prices": [
+        70,
+        70
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-4o (2024-11-20)",
+      "href": "/openai/gpt-4o-2024-11-20",
+      "code": "openai/gpt-4o-2024-11-20",
+      "prices": [
+        250,
+        1000
+      ]
+    },
+    {
+      "name": "Mistral Large 2411",
+      "href": "/mistralai/mistral-large-2411",
+      "code": "mistralai/mistral-large-2411",
+      "prices": [
+        200,
+        600
+      ]
+    },
+    {
+      "name": "Mistral Large 2407",
+      "href": "/mistralai/mistral-large-2407",
+      "code": "mistralai/mistral-large-2407",
+      "prices": [
+        200,
+        600
+      ]
+    },
+    {
+      "name": "Mistral: Pixtral Large 2411",
+      "href": "/mistralai/pixtral-large-2411",
+      "code": "mistralai/pixtral-large-2411",
+      "prices": [
+        200,
+        600
+      ]
+    },
+    {
+      "name": "xAI: Grok Vision Beta",
+      "href": "/x-ai/grok-vision-beta",
+      "code": "x-ai/grok-vision-beta",
+      "prices": [
+        500,
+        1500
+      ]
+    },
+    {
+      "name": "Infermatic: Mistral Nemo Inferor 12B",
+      "href": "/infermatic/mn-inferor-12b",
+      "code": "infermatic/mn-inferor-12b",
+      "prices": [
+        80,
+        120
+      ]
+    },
+    {
+      "name": "Qwen2.5 Coder 32B Instruct (free)",
+      "href": "/qwen/qwen-2.5-coder-32b-instruct:free",
+      "code": "qwen/qwen-2.5-coder-32b-instruct:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Qwen2.5 Coder 32B Instruct",
+      "href": "/qwen/qwen-2.5-coder-32b-instruct",
+      "code": "qwen/qwen-2.5-coder-32b-instruct",
+      "prices": [
+        7.000000000000001,
+        16
+      ]
+    },
+    {
+      "name": "SorcererLM 8x22B",
+      "href": "/raifle/sorcererlm-8x22b",
+      "code": "raifle/sorcererlm-8x22b",
+      "prices": [
+        450,
+        450
+      ]
+    },
+    {
+      "name": "EVA Qwen2.5 32B",
+      "href": "/eva-unit-01/eva-qwen-2.5-32b",
+      "code": "eva-unit-01/eva-qwen-2.5-32b",
+      "prices": [
+        260,
+        340
+      ]
+    },
+    {
+      "name": "Unslopnemo 12B",
+      "href": "/thedrummer/unslopnemo-12b",
+      "code": "thedrummer/unslopnemo-12b",
+      "prices": [
+        50,
+        50
+      ]
+    },
+    {
+      "name": "Anthropic: Claude 3.5 Haiku (2024-10-22) (self-moderated)",
+      "href": "/anthropic/claude-3.5-haiku-20241022:beta",
+      "code": "anthropic/claude-3.5-haiku-20241022:beta",
+      "prices": [
+        80,
+        400
+      ]
+    },
+    {
+      "name": "Anthropic: Claude 3.5 Haiku (2024-10-22)",
+      "href": "/anthropic/claude-3.5-haiku-20241022",
+      "code": "anthropic/claude-3.5-haiku-20241022",
+      "prices": [
+        80,
+        400
+      ]
+    },
+    {
+      "name": "Anthropic: Claude 3.5 Haiku (self-moderated)",
+      "href": "/anthropic/claude-3.5-haiku:beta",
+      "code": "anthropic/claude-3.5-haiku:beta",
+      "prices": [
+        80,
+        400
+      ]
+    },
+    {
+      "name": "Anthropic: Claude 3.5 Haiku",
+      "href": "/anthropic/claude-3.5-haiku",
+      "code": "anthropic/claude-3.5-haiku",
+      "prices": [
+        80,
+        400
+      ]
+    },
+    {
+      "name": "NeverSleep: Lumimaid v0.2 70B",
+      "href": "/neversleep/llama-3.1-lumimaid-70b",
+      "code": "neversleep/llama-3.1-lumimaid-70b",
+      "prices": [
+        337.5,
+        450
+      ]
+    },
+    {
+      "name": "Magnum v4 72B",
+      "href": "/anthracite-org/magnum-v4-72b",
+      "code": "anthracite-org/magnum-v4-72b",
+      "prices": [
+        187.5,
+        225
+      ]
+    },
+    {
+      "name": "Anthropic: Claude 3.5 Sonnet (self-moderated)",
+      "href": "/anthropic/claude-3.5-sonnet:beta",
+      "code": "anthropic/claude-3.5-sonnet:beta",
+      "prices": [
+        300,
+        1500
+      ]
+    },
+    {
+      "name": "Anthropic: Claude 3.5 Sonnet",
+      "href": "/anthropic/claude-3.5-sonnet",
+      "code": "anthropic/claude-3.5-sonnet",
+      "prices": [
+        300,
+        1500
+      ]
+    },
+    {
+      "name": "xAI: Grok Beta",
+      "href": "/x-ai/grok-beta",
+      "code": "x-ai/grok-beta",
+      "prices": [
+        500,
+        1500
+      ]
+    },
+    {
+      "name": "Mistral: Ministral 8B",
+      "href": "/mistralai/ministral-8b",
+      "code": "mistralai/ministral-8b",
+      "prices": [
+        10,
+        10
+      ]
+    },
+    {
+      "name": "Mistral: Ministral 3B",
+      "href": "/mistralai/ministral-3b",
+      "code": "mistralai/ministral-3b",
+      "prices": [
+        4,
+        4
+      ]
+    },
+    {
+      "name": "Qwen2.5 7B Instruct",
+      "href": "/qwen/qwen-2.5-7b-instruct",
+      "code": "qwen/qwen-2.5-7b-instruct",
+      "prices": [
+        2.5,
+        5
+      ]
+    },
+    {
+      "name": "NVIDIA: Llama 3.1 Nemotron 70B Instruct (free)",
+      "href": "/nvidia/llama-3.1-nemotron-70b-instruct:free",
+      "code": "nvidia/llama-3.1-nemotron-70b-instruct:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "NVIDIA: Llama 3.1 Nemotron 70B Instruct",
+      "href": "/nvidia/llama-3.1-nemotron-70b-instruct",
+      "code": "nvidia/llama-3.1-nemotron-70b-instruct",
+      "prices": [
+        12,
+        30
+      ]
+    },
+    {
+      "name": "Inflection: Inflection 3 Pi",
+      "href": "/inflection/inflection-3-pi",
+      "code": "inflection/inflection-3-pi",
+      "prices": [
+        250,
+        1000
+      ]
+    },
+    {
+      "name": "Inflection: Inflection 3 Productivity",
+      "href": "/inflection/inflection-3-productivity",
+      "code": "inflection/inflection-3-productivity",
+      "prices": [
+        250,
+        1000
+      ]
+    },
+    {
+      "name": "Google: Gemini Flash 1.5 8B",
+      "href": "/google/gemini-flash-1.5-8b",
+      "code": "google/gemini-flash-1.5-8b",
+      "prices": [
+        3.75,
+        15
+      ]
+    },
+    {
+      "name": "Magnum v2 72B",
+      "href": "/anthracite-org/magnum-v2-72b",
+      "code": "anthracite-org/magnum-v2-72b",
+      "prices": [
+        300,
+        300
+      ]
+    },
+    {
+      "name": "Liquid: LFM 40B MoE",
+      "href": "/liquid/lfm-40b",
+      "code": "liquid/lfm-40b",
+      "prices": [
+        15,
+        15
+      ]
+    },
+    {
+      "name": "Rocinante 12B",
+      "href": "/thedrummer/rocinante-12b",
+      "code": "thedrummer/rocinante-12b",
+      "prices": [
+        25,
+        50
+      ]
+    },
+    {
+      "name": "Meta: Llama 3.2 3B Instruct (free)",
+      "href": "/meta-llama/llama-3.2-3b-instruct:free",
+      "code": "meta-llama/llama-3.2-3b-instruct:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Meta: Llama 3.2 3B Instruct",
+      "href": "/meta-llama/llama-3.2-3b-instruct",
+      "code": "meta-llama/llama-3.2-3b-instruct",
+      "prices": [
+        1.5,
+        2.5
+      ]
+    },
+    {
+      "name": "Meta: Llama 3.2 1B Instruct (free)",
+      "href": "/meta-llama/llama-3.2-1b-instruct:free",
+      "code": "meta-llama/llama-3.2-1b-instruct:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Meta: Llama 3.2 1B Instruct",
+      "href": "/meta-llama/llama-3.2-1b-instruct",
+      "code": "meta-llama/llama-3.2-1b-instruct",
+      "prices": [
+        1,
+        1
+      ]
+    },
+    {
+      "name": "Meta: Llama 3.2 90B Vision Instruct",
+      "href": "/meta-llama/llama-3.2-90b-vision-instruct",
+      "code": "meta-llama/llama-3.2-90b-vision-instruct",
+      "prices": [
+        80,
+        160
+      ]
+    },
+    {
+      "name": "Meta: Llama 3.2 11B Vision Instruct (free)",
+      "href": "/meta-llama/llama-3.2-11b-vision-instruct:free",
+      "code": "meta-llama/llama-3.2-11b-vision-instruct:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Meta: Llama 3.2 11B Vision Instruct",
+      "href": "/meta-llama/llama-3.2-11b-vision-instruct",
+      "code": "meta-llama/llama-3.2-11b-vision-instruct",
+      "prices": [
+        5.5,
+        5.5
+      ]
+    },
+    {
+      "name": "Qwen2.5 72B Instruct (free)",
+      "href": "/qwen/qwen-2.5-72b-instruct:free",
+      "code": "qwen/qwen-2.5-72b-instruct:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Qwen2.5 72B Instruct",
+      "href": "/qwen/qwen-2.5-72b-instruct",
+      "code": "qwen/qwen-2.5-72b-instruct",
+      "prices": [
+        13,
+        40
+      ]
+    },
+    {
+      "name": "Qwen: Qwen2.5-VL 72B Instruct",
+      "href": "/qwen/qwen-2.5-vl-72b-instruct",
+      "code": "qwen/qwen-2.5-vl-72b-instruct",
+      "prices": [
+        60,
+        60
+      ]
+    },
+    {
+      "name": "NeverSleep: Lumimaid v0.2 8B",
+      "href": "/neversleep/llama-3.1-lumimaid-8b",
+      "code": "neversleep/llama-3.1-lumimaid-8b",
+      "prices": [
+        18.75,
+        112.5
+      ]
+    },
+    {
+      "name": "OpenAI: o1-mini (2024-09-12)",
+      "href": "/openai/o1-mini-2024-09-12",
+      "code": "openai/o1-mini-2024-09-12",
+      "prices": [
+        110.00000000000001,
+        440.00000000000006
+      ]
+    },
+    {
+      "name": "OpenAI: o1-preview",
+      "href": "/openai/o1-preview",
+      "code": "openai/o1-preview",
+      "prices": [
+        1500,
+        6000
+      ]
+    },
+    {
+      "name": "OpenAI: o1-preview (2024-09-12)",
+      "href": "/openai/o1-preview-2024-09-12",
+      "code": "openai/o1-preview-2024-09-12",
+      "prices": [
+        1500,
+        6000
+      ]
+    },
+    {
+      "name": "OpenAI: o1-mini",
+      "href": "/openai/o1-mini",
+      "code": "openai/o1-mini",
+      "prices": [
+        110.00000000000001,
+        440.00000000000006
+      ]
+    },
+    {
+      "name": "Mistral: Pixtral 12B",
+      "href": "/mistralai/pixtral-12b",
+      "code": "mistralai/pixtral-12b",
+      "prices": [
+        10,
+        10
+      ]
+    },
+    {
+      "name": "Cohere: Command R (08-2024)",
+      "href": "/cohere/command-r-08-2024",
+      "code": "cohere/command-r-08-2024",
+      "prices": [
+        14.249999999999998,
+        56.99999999999999
+      ]
+    },
+    {
+      "name": "Cohere: Command R+ (08-2024)",
+      "href": "/cohere/command-r-plus-08-2024",
+      "code": "cohere/command-r-plus-08-2024",
+      "prices": [
+        237.5,
+        950
+      ]
+    },
+    {
+      "name": "Sao10K: Llama 3.1 Euryale 70B v2.2",
+      "href": "/sao10k/l3.1-euryale-70b",
+      "code": "sao10k/l3.1-euryale-70b",
+      "prices": [
+        70,
+        80
+      ]
+    },
+    {
+      "name": "Google: Gemini Flash 1.5 8B Experimental",
+      "href": "/google/gemini-flash-1.5-8b-exp",
+      "code": "google/gemini-flash-1.5-8b-exp",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Qwen: Qwen2.5-VL 7B Instruct",
+      "href": "/qwen/qwen-2.5-vl-7b-instruct",
+      "code": "qwen/qwen-2.5-vl-7b-instruct",
+      "prices": [
+        20,
+        20
+      ]
+    },
+    {
+      "name": "AI21: Jamba 1.5 Large",
+      "href": "/ai21/jamba-1-5-large",
+      "code": "ai21/jamba-1-5-large",
+      "prices": [
+        200,
+        800
+      ]
+    },
+    {
+      "name": "AI21: Jamba 1.5 Mini",
+      "href": "/ai21/jamba-1-5-mini",
+      "code": "ai21/jamba-1-5-mini",
+      "prices": [
+        20,
+        40
+      ]
+    },
+    {
+      "name": "Microsoft: Phi-3.5 Mini 128K Instruct",
+      "href": "/microsoft/phi-3.5-mini-128k-instruct",
+      "code": "microsoft/phi-3.5-mini-128k-instruct",
+      "prices": [
+        10,
+        10
+      ]
+    },
+    {
+      "name": "Nous: Hermes 3 70B Instruct",
+      "href": "/nousresearch/hermes-3-llama-3.1-70b",
+      "code": "nousresearch/hermes-3-llama-3.1-70b",
+      "prices": [
+        12,
+        30
+      ]
+    },
+    {
+      "name": "Nous: Hermes 3 405B Instruct",
+      "href": "/nousresearch/hermes-3-llama-3.1-405b",
+      "code": "nousresearch/hermes-3-llama-3.1-405b",
+      "prices": [
+        80,
+        80
+      ]
+    },
+    {
+      "name": "OpenAI: ChatGPT-4o",
+      "href": "/openai/chatgpt-4o-latest",
+      "code": "openai/chatgpt-4o-latest",
+      "prices": [
+        500,
+        1500
+      ]
+    },
+    {
+      "name": "Sao10K: Llama 3 8B Lunaris",
+      "href": "/sao10k/l3-lunaris-8b",
+      "code": "sao10k/l3-lunaris-8b",
+      "prices": [
+        3,
+        6
+      ]
+    },
+    {
+      "name": "Aetherwiing: Starcannon 12B",
+      "href": "/aetherwiing/mn-starcannon-12b",
+      "code": "aetherwiing/mn-starcannon-12b",
+      "prices": [
+        80,
+        120
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-4o (2024-08-06)",
+      "href": "/openai/gpt-4o-2024-08-06",
+      "code": "openai/gpt-4o-2024-08-06",
+      "prices": [
+        250,
+        1000
+      ]
+    },
+    {
+      "name": "Meta: Llama 3.1 405B (base)",
+      "href": "/meta-llama/llama-3.1-405b",
+      "code": "meta-llama/llama-3.1-405b",
+      "prices": [
+        200,
+        200
+      ]
+    },
+    {
+      "name": "Mistral Nemo 12B Celeste",
+      "href": "/nothingiisreal/mn-celeste-12b",
+      "code": "nothingiisreal/mn-celeste-12b",
+      "prices": [
+        80,
+        120
+      ]
+    },
+    {
+      "name": "Perplexity: Llama 3.1 Sonar 8B Online",
+      "href": "/perplexity/llama-3.1-sonar-small-128k-online",
+      "code": "perplexity/llama-3.1-sonar-small-128k-online",
+      "prices": [
+        20,
+        20
+      ]
+    },
+    {
+      "name": "Perplexity: Llama 3.1 Sonar 70B Online",
+      "href": "/perplexity/llama-3.1-sonar-large-128k-online",
+      "code": "perplexity/llama-3.1-sonar-large-128k-online",
+      "prices": [
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Meta: Llama 3.1 405B Instruct",
+      "href": "/meta-llama/llama-3.1-405b-instruct",
+      "code": "meta-llama/llama-3.1-405b-instruct",
+      "prices": [
+        80,
+        80
+      ]
+    },
+    {
+      "name": "Meta: Llama 3.1 8B Instruct (free)",
+      "href": "/meta-llama/llama-3.1-8b-instruct:free",
+      "code": "meta-llama/llama-3.1-8b-instruct:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Meta: Llama 3.1 8B Instruct",
+      "href": "/meta-llama/llama-3.1-8b-instruct",
+      "code": "meta-llama/llama-3.1-8b-instruct",
+      "prices": [
+        2,
+        5
+      ]
+    },
+    {
+      "name": "Meta: Llama 3.1 70B Instruct",
+      "href": "/meta-llama/llama-3.1-70b-instruct",
+      "code": "meta-llama/llama-3.1-70b-instruct",
+      "prices": [
+        12,
+        30
+      ]
+    },
+    {
+      "name": "Mistral: Mistral Nemo (free)",
+      "href": "/mistralai/mistral-nemo:free",
+      "code": "mistralai/mistral-nemo:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Mistral: Mistral Nemo",
+      "href": "/mistralai/mistral-nemo",
+      "code": "mistralai/mistral-nemo",
+      "prices": [
+        3.5000000000000004,
+        8
+      ]
+    },
+    {
+      "name": "Mistral: Codestral Mamba",
+      "href": "/mistralai/codestral-mamba",
+      "code": "mistralai/codestral-mamba",
+      "prices": [
+        25,
+        25
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-4o-mini",
+      "href": "/openai/gpt-4o-mini",
+      "code": "openai/gpt-4o-mini",
+      "prices": [
+        15,
+        60
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-4o-mini (2024-07-18)",
+      "href": "/openai/gpt-4o-mini-2024-07-18",
+      "code": "openai/gpt-4o-mini-2024-07-18",
+      "prices": [
+        15,
+        60
+      ]
+    },
+    {
+      "name": "Qwen 2 7B Instruct (free)",
+      "href": "/qwen/qwen-2-7b-instruct:free",
+      "code": "qwen/qwen-2-7b-instruct:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Qwen 2 7B Instruct",
+      "href": "/qwen/qwen-2-7b-instruct",
+      "code": "qwen/qwen-2-7b-instruct",
+      "prices": [
+        5.4,
+        5.4
+      ]
+    },
+    {
+      "name": "Google: Gemma 2 27B",
+      "href": "/google/gemma-2-27b-it",
+      "code": "google/gemma-2-27b-it",
+      "prices": [
+        27,
+        27
+      ]
+    },
+    {
+      "name": "Magnum 72B",
+      "href": "/alpindale/magnum-72b",
+      "code": "alpindale/magnum-72b",
+      "prices": [
+        187.5,
+        225
+      ]
+    },
+    {
+      "name": "Google: Gemma 2 9B (free)",
+      "href": "/google/gemma-2-9b-it:free",
+      "code": "google/gemma-2-9b-it:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Google: Gemma 2 9B",
+      "href": "/google/gemma-2-9b-it",
+      "code": "google/gemma-2-9b-it",
+      "prices": [
+        3,
+        6
+      ]
+    },
+    {
+      "name": "01.AI: Yi Large",
+      "href": "/01-ai/yi-large",
+      "code": "01-ai/yi-large",
+      "prices": [
+        300,
+        300
+      ]
+    },
+    {
+      "name": "AI21: Jamba Instruct",
+      "href": "/ai21/jamba-instruct",
+      "code": "ai21/jamba-instruct",
+      "prices": [
+        50,
+        70
+      ]
+    },
+    {
+      "name": "Anthropic: Claude 3.5 Sonnet (2024-06-20) (self-moderated)",
+      "href": "/anthropic/claude-3.5-sonnet-20240620:beta",
+      "code": "anthropic/claude-3.5-sonnet-20240620:beta",
+      "prices": [
+        300,
+        1500
+      ]
+    },
+    {
+      "name": "Anthropic: Claude 3.5 Sonnet (2024-06-20)",
+      "href": "/anthropic/claude-3.5-sonnet-20240620",
+      "code": "anthropic/claude-3.5-sonnet-20240620",
+      "prices": [
+        300,
+        1500
+      ]
+    },
+    {
+      "name": "Sao10k: Llama 3 Euryale 70B v2.1",
+      "href": "/sao10k/l3-euryale-70b",
+      "code": "sao10k/l3-euryale-70b",
+      "prices": [
+        70,
+        80
+      ]
+    },
+    {
+      "name": "Dolphin 2.9.2 Mixtral 8x22B 🐬",
+      "href": "/cognitivecomputations/dolphin-mixtral-8x22b",
+      "code": "cognitivecomputations/dolphin-mixtral-8x22b",
+      "prices": [
+        90,
+        90
+      ]
+    },
+    {
+      "name": "Qwen 2 72B Instruct",
+      "href": "/qwen/qwen-2-72b-instruct",
+      "code": "qwen/qwen-2-72b-instruct",
+      "prices": [
+        90,
+        90
+      ]
+    },
+    {
+      "name": "Mistral: Mistral 7B Instruct (free)",
+      "href": "/mistralai/mistral-7b-instruct:free",
+      "code": "mistralai/mistral-7b-instruct:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Mistral: Mistral 7B Instruct",
+      "href": "/mistralai/mistral-7b-instruct",
+      "code": "mistralai/mistral-7b-instruct",
+      "prices": [
+        3,
+        5.5
+      ]
+    },
+    {
+      "name": "Mistral: Mistral 7B Instruct v0.3",
+      "href": "/mistralai/mistral-7b-instruct-v0.3",
+      "code": "mistralai/mistral-7b-instruct-v0.3",
+      "prices": [
+        3,
+        5.5
+      ]
+    },
+    {
+      "name": "NousResearch: Hermes 2 Pro - Llama-3 8B",
+      "href": "/nousresearch/hermes-2-pro-llama-3-8b",
+      "code": "nousresearch/hermes-2-pro-llama-3-8b",
+      "prices": [
+        2.5,
+        4
+      ]
+    },
+    {
+      "name": "Microsoft: Phi-3 Mini 128K Instruct (free)",
+      "href": "/microsoft/phi-3-mini-128k-instruct:free",
+      "code": "microsoft/phi-3-mini-128k-instruct:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Microsoft: Phi-3 Mini 128K Instruct",
+      "href": "/microsoft/phi-3-mini-128k-instruct",
+      "code": "microsoft/phi-3-mini-128k-instruct",
+      "prices": [
+        10,
+        10
+      ]
+    },
+    {
+      "name": "Microsoft: Phi-3 Medium 128K Instruct (free)",
+      "href": "/microsoft/phi-3-medium-128k-instruct:free",
+      "code": "microsoft/phi-3-medium-128k-instruct:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Microsoft: Phi-3 Medium 128K Instruct",
+      "href": "/microsoft/phi-3-medium-128k-instruct",
+      "code": "microsoft/phi-3-medium-128k-instruct",
+      "prices": [
+        100,
+        100
+      ]
+    },
+    {
+      "name": "NeverSleep: Llama 3 Lumimaid 70B",
+      "href": "/neversleep/llama-3-lumimaid-70b",
+      "code": "neversleep/llama-3-lumimaid-70b",
+      "prices": [
+        337.5,
+        450
+      ]
+    },
+    {
+      "name": "Google: Gemini Flash 1.5",
+      "href": "/google/gemini-flash-1.5",
+      "code": "google/gemini-flash-1.5",
+      "prices": [
+        7.5,
+        30
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-4o (2024-05-13)",
+      "href": "/openai/gpt-4o-2024-05-13",
+      "code": "openai/gpt-4o-2024-05-13",
+      "prices": [
+        500,
+        1500
+      ]
+    },
+    {
+      "name": "Meta: LlamaGuard 2 8B",
+      "href": "/meta-llama/llama-guard-2-8b",
+      "code": "meta-llama/llama-guard-2-8b",
+      "prices": [
+        20,
+        20
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-4o",
+      "href": "/openai/gpt-4o",
+      "code": "openai/gpt-4o",
+      "prices": [
+        250,
+        1000
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-4o (extended)",
+      "href": "/openai/gpt-4o:extended",
+      "code": "openai/gpt-4o:extended",
+      "prices": [
+        600,
+        1800
+      ]
+    },
+    {
+      "name": "NeverSleep: Llama 3 Lumimaid 8B (extended)",
+      "href": "/neversleep/llama-3-lumimaid-8b:extended",
+      "code": "neversleep/llama-3-lumimaid-8b:extended",
+      "prices": [
+        18.75,
+        112.5
+      ]
+    },
+    {
+      "name": "NeverSleep: Llama 3 Lumimaid 8B",
+      "href": "/neversleep/llama-3-lumimaid-8b",
+      "code": "neversleep/llama-3-lumimaid-8b",
+      "prices": [
+        18.75,
+        112.5
+      ]
+    },
+    {
+      "name": "Fimbulvetr 11B v2",
+      "href": "/sao10k/fimbulvetr-11b-v2",
+      "code": "sao10k/fimbulvetr-11b-v2",
+      "prices": [
+        80,
+        120
+      ]
+    },
+    {
+      "name": "Meta: Llama 3 8B Instruct (free)",
+      "href": "/meta-llama/llama-3-8b-instruct:free",
+      "code": "meta-llama/llama-3-8b-instruct:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Meta: Llama 3 8B Instruct",
+      "href": "/meta-llama/llama-3-8b-instruct",
+      "code": "meta-llama/llama-3-8b-instruct",
+      "prices": [
+        3,
+        6
+      ]
+    },
+    {
+      "name": "Meta: Llama 3 70B Instruct",
+      "href": "/meta-llama/llama-3-70b-instruct",
+      "code": "meta-llama/llama-3-70b-instruct",
+      "prices": [
+        23,
+        40
+      ]
+    },
+    {
+      "name": "Mistral: Mixtral 8x22B Instruct",
+      "href": "/mistralai/mixtral-8x22b-instruct",
+      "code": "mistralai/mixtral-8x22b-instruct",
+      "prices": [
+        90,
+        90
+      ]
+    },
+    {
+      "name": "WizardLM-2 8x22B",
+      "href": "/microsoft/wizardlm-2-8x22b",
+      "code": "microsoft/wizardlm-2-8x22b",
+      "prices": [
+        50,
+        50
+      ]
+    },
+    {
+      "name": "WizardLM-2 7B",
+      "href": "/microsoft/wizardlm-2-7b",
+      "code": "microsoft/wizardlm-2-7b",
+      "prices": [
+        7.000000000000001,
+        7.000000000000001
+      ]
+    },
+    {
+      "name": "Google: Gemini Pro 1.5",
+      "href": "/google/gemini-pro-1.5",
+      "code": "google/gemini-pro-1.5",
+      "prices": [
+        125,
+        500
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-4 Turbo",
+      "href": "/openai/gpt-4-turbo",
+      "code": "openai/gpt-4-turbo",
+      "prices": [
+        1000,
+        3000
+      ]
+    },
+    {
+      "name": "Cohere: Command R+",
+      "href": "/cohere/command-r-plus",
+      "code": "cohere/command-r-plus",
+      "prices": [
+        285,
+        1425
+      ]
+    },
+    {
+      "name": "Cohere: Command R+ (04-2024)",
+      "href": "/cohere/command-r-plus-04-2024",
+      "code": "cohere/command-r-plus-04-2024",
+      "prices": [
+        285,
+        1425
+      ]
+    },
+    {
+      "name": "Midnight Rose 70B",
+      "href": "/sophosympatheia/midnight-rose-70b",
+      "code": "sophosympatheia/midnight-rose-70b",
+      "prices": [
+        80,
+        80
+      ]
+    },
+    {
+      "name": "Cohere: Command",
+      "href": "/cohere/command",
+      "code": "cohere/command",
+      "prices": [
+        95,
+        190
+      ]
+    },
+    {
+      "name": "Cohere: Command R",
+      "href": "/cohere/command-r",
+      "code": "cohere/command-r",
+      "prices": [
+        47.5,
+        142.5
+      ]
+    },
+    {
+      "name": "Anthropic: Claude 3 Haiku (self-moderated)",
+      "href": "/anthropic/claude-3-haiku:beta",
+      "code": "anthropic/claude-3-haiku:beta",
+      "prices": [
+        25,
+        125
+      ]
+    },
+    {
+      "name": "Anthropic: Claude 3 Haiku",
+      "href": "/anthropic/claude-3-haiku",
+      "code": "anthropic/claude-3-haiku",
+      "prices": [
+        25,
+        125
+      ]
+    },
+    {
+      "name": "Anthropic: Claude 3 Opus (self-moderated)",
+      "href": "/anthropic/claude-3-opus:beta",
+      "code": "anthropic/claude-3-opus:beta",
+      "prices": [
+        1500,
+        7500
+      ]
+    },
+    {
+      "name": "Anthropic: Claude 3 Opus",
+      "href": "/anthropic/claude-3-opus",
+      "code": "anthropic/claude-3-opus",
+      "prices": [
+        1500,
+        7500
+      ]
+    },
+    {
+      "name": "Anthropic: Claude 3 Sonnet (self-moderated)",
+      "href": "/anthropic/claude-3-sonnet:beta",
+      "code": "anthropic/claude-3-sonnet:beta",
+      "prices": [
+        300,
+        1500
+      ]
+    },
+    {
+      "name": "Anthropic: Claude 3 Sonnet",
+      "href": "/anthropic/claude-3-sonnet",
+      "code": "anthropic/claude-3-sonnet",
+      "prices": [
+        300,
+        1500
+      ]
+    },
+    {
+      "name": "Cohere: Command R (03-2024)",
+      "href": "/cohere/command-r-03-2024",
+      "code": "cohere/command-r-03-2024",
+      "prices": [
+        47.5,
+        142.5
+      ]
+    },
+    {
+      "name": "Mistral Large",
+      "href": "/mistralai/mistral-large",
+      "code": "mistralai/mistral-large",
+      "prices": [
+        200,
+        600
+      ]
+    },
+    {
+      "name": "Google: Gemma 7B",
+      "href": "/google/gemma-7b-it",
+      "code": "google/gemma-7b-it",
+      "prices": [
+        15,
+        15
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-3.5 Turbo (older v0613)",
+      "href": "/openai/gpt-3.5-turbo-0613",
+      "code": "openai/gpt-3.5-turbo-0613",
+      "prices": [
+        100,
+        200
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-4 Turbo Preview",
+      "href": "/openai/gpt-4-turbo-preview",
+      "code": "openai/gpt-4-turbo-preview",
+      "prices": [
+        1000,
+        3000
+      ]
+    },
+    {
+      "name": "Nous: Hermes 2 Mixtral 8x7B DPO",
+      "href": "/nousresearch/nous-hermes-2-mixtral-8x7b-dpo",
+      "code": "nousresearch/nous-hermes-2-mixtral-8x7b-dpo",
+      "prices": [
+        60,
+        60
+      ]
+    },
+    {
+      "name": "Mistral Small",
+      "href": "/mistralai/mistral-small",
+      "code": "mistralai/mistral-small",
+      "prices": [
+        20,
+        60
+      ]
+    },
+    {
+      "name": "Mistral Tiny",
+      "href": "/mistralai/mistral-tiny",
+      "code": "mistralai/mistral-tiny",
+      "prices": [
+        25,
+        25
+      ]
+    },
+    {
+      "name": "Mistral Medium",
+      "href": "/mistralai/mistral-medium",
+      "code": "mistralai/mistral-medium",
+      "prices": [
+        275,
+        810
+      ]
+    },
+    {
+      "name": "Mistral: Mistral 7B Instruct v0.2",
+      "href": "/mistralai/mistral-7b-instruct-v0.2",
+      "code": "mistralai/mistral-7b-instruct-v0.2",
+      "prices": [
+        20,
+        20
+      ]
+    },
+    {
+      "name": "Dolphin 2.6 Mixtral 8x7B 🐬",
+      "href": "/cognitivecomputations/dolphin-mixtral-8x7b",
+      "code": "cognitivecomputations/dolphin-mixtral-8x7b",
+      "prices": [
+        50,
+        50
+      ]
+    },
+    {
+      "name": "Google: Gemini Pro Vision 1.0",
+      "href": "/google/gemini-pro-vision",
+      "code": "google/gemini-pro-vision",
+      "prices": [
+        50,
+        150
+      ]
+    },
+    {
+      "name": "Google: Gemini Pro 1.0",
+      "href": "/google/gemini-pro",
+      "code": "google/gemini-pro",
+      "prices": [
+        50,
+        150
+      ]
+    },
+    {
+      "name": "Mistral: Mixtral 8x7B (base)",
+      "href": "/mistralai/mixtral-8x7b",
+      "code": "mistralai/mixtral-8x7b",
+      "prices": [
+        60,
+        60
+      ]
+    },
+    {
+      "name": "Mistral: Mixtral 8x7B Instruct",
+      "href": "/mistralai/mixtral-8x7b-instruct",
+      "code": "mistralai/mixtral-8x7b-instruct",
+      "prices": [
+        24,
+        24
+      ]
+    },
+    {
+      "name": "OpenChat 3.5 7B (free)",
+      "href": "/openchat/openchat-7b:free",
+      "code": "openchat/openchat-7b:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "OpenChat 3.5 7B",
+      "href": "/openchat/openchat-7b",
+      "code": "openchat/openchat-7b",
+      "prices": [
+        5.5,
+        5.5
+      ]
+    },
+    {
+      "name": "Noromaid 20B",
+      "href": "/neversleep/noromaid-20b",
+      "code": "neversleep/noromaid-20b",
+      "prices": [
+        150,
+        225
+      ]
+    },
+    {
+      "name": "Anthropic: Claude v2 (self-moderated)",
+      "href": "/anthropic/claude-2:beta",
+      "code": "anthropic/claude-2:beta",
+      "prices": [
+        800,
+        2400
+      ]
+    },
+    {
+      "name": "Anthropic: Claude v2",
+      "href": "/anthropic/claude-2",
+      "code": "anthropic/claude-2",
+      "prices": [
+        800,
+        2400
+      ]
+    },
+    {
+      "name": "Anthropic: Claude v2.1 (self-moderated)",
+      "href": "/anthropic/claude-2.1:beta",
+      "code": "anthropic/claude-2.1:beta",
+      "prices": [
+        800,
+        2400
+      ]
+    },
+    {
+      "name": "Anthropic: Claude v2.1",
+      "href": "/anthropic/claude-2.1",
+      "code": "anthropic/claude-2.1",
+      "prices": [
+        800,
+        2400
+      ]
+    },
+    {
+      "name": "OpenHermes 2.5 Mistral 7B",
+      "href": "/teknium/openhermes-2.5-mistral-7b",
+      "code": "teknium/openhermes-2.5-mistral-7b",
+      "prices": [
+        17,
+        17
+      ]
+    },
+    {
+      "name": "Toppy M 7B (free)",
+      "href": "/undi95/toppy-m-7b:free",
+      "code": "undi95/toppy-m-7b:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Toppy M 7B",
+      "href": "/undi95/toppy-m-7b",
+      "code": "undi95/toppy-m-7b",
+      "prices": [
+        7.000000000000001,
+        7.000000000000001
+      ]
+    },
+    {
+      "name": "Goliath 120B",
+      "href": "/alpindale/goliath-120b",
+      "code": "alpindale/goliath-120b",
+      "prices": [
+        937.5,
+        937.5
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-3.5 Turbo 16k (older v1106)",
+      "href": "/openai/gpt-3.5-turbo-1106",
+      "code": "openai/gpt-3.5-turbo-1106",
+      "prices": [
+        100,
+        200
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-4 Turbo (older v1106)",
+      "href": "/openai/gpt-4-1106-preview",
+      "code": "openai/gpt-4-1106-preview",
+      "prices": [
+        1000,
+        3000
+      ]
+    },
+    {
+      "name": "Google: PaLM 2 Chat 32k",
+      "href": "/google/palm-2-chat-bison-32k",
+      "code": "google/palm-2-chat-bison-32k",
+      "prices": [
+        100,
+        200
+      ]
+    },
+    {
+      "name": "Google: PaLM 2 Code Chat 32k",
+      "href": "/google/palm-2-codechat-bison-32k",
+      "code": "google/palm-2-codechat-bison-32k",
+      "prices": [
+        100,
+        200
+      ]
+    },
+    {
+      "name": "Airoboros 70B",
+      "href": "/jondurbin/airoboros-l2-70b",
+      "code": "jondurbin/airoboros-l2-70b",
+      "prices": [
+        50,
+        50
+      ]
+    },
+    {
+      "name": "Xwin 70B",
+      "href": "/xwin-lm/xwin-lm-70b",
+      "code": "xwin-lm/xwin-lm-70b",
+      "prices": [
+        375,
+        375
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-3.5 Turbo Instruct",
+      "href": "/openai/gpt-3.5-turbo-instruct",
+      "code": "openai/gpt-3.5-turbo-instruct",
+      "prices": [
+        150,
+        200
+      ]
+    },
+    {
+      "name": "Mistral: Mistral 7B Instruct v0.1",
+      "href": "/mistralai/mistral-7b-instruct-v0.1",
+      "code": "mistralai/mistral-7b-instruct-v0.1",
+      "prices": [
+        20,
+        20
+      ]
+    },
+    {
+      "name": "Pygmalion: Mythalion 13B",
+      "href": "/pygmalionai/mythalion-13b",
+      "code": "pygmalionai/mythalion-13b",
+      "prices": [
+        80,
+        120
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-3.5 Turbo 16k",
+      "href": "/openai/gpt-3.5-turbo-16k",
+      "code": "openai/gpt-3.5-turbo-16k",
+      "prices": [
+        300,
+        400
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-4 32k",
+      "href": "/openai/gpt-4-32k",
+      "code": "openai/gpt-4-32k",
+      "prices": [
+        6000,
+        12000
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-4 32k (older v0314)",
+      "href": "/openai/gpt-4-32k-0314",
+      "code": "openai/gpt-4-32k-0314",
+      "prices": [
+        6000,
+        12000
+      ]
+    },
+    {
+      "name": "Nous: Hermes 13B",
+      "href": "/nousresearch/nous-hermes-llama2-13b",
+      "code": "nousresearch/nous-hermes-llama2-13b",
+      "prices": [
+        17,
+        17
+      ]
+    },
+    {
+      "name": "Mancer: Weaver (alpha)",
+      "href": "/mancer/weaver",
+      "code": "mancer/weaver",
+      "prices": [
+        150,
+        225
+      ]
+    },
+    {
+      "name": "Hugging Face: Zephyr 7B (free)",
+      "href": "/huggingfaceh4/zephyr-7b-beta:free",
+      "code": "huggingfaceh4/zephyr-7b-beta:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Anthropic: Claude v2.0 (self-moderated)",
+      "href": "/anthropic/claude-2.0:beta",
+      "code": "anthropic/claude-2.0:beta",
+      "prices": [
+        800,
+        2400
+      ]
+    },
+    {
+      "name": "Anthropic: Claude v2.0",
+      "href": "/anthropic/claude-2.0",
+      "code": "anthropic/claude-2.0",
+      "prices": [
+        800,
+        2400
+      ]
+    },
+    {
+      "name": "ReMM SLERP 13B",
+      "href": "/undi95/remm-slerp-l2-13b",
+      "code": "undi95/remm-slerp-l2-13b",
+      "prices": [
+        80,
+        120
+      ]
+    },
+    {
+      "name": "Google: PaLM 2 Chat",
+      "href": "/google/palm-2-chat-bison",
+      "code": "google/palm-2-chat-bison",
+      "prices": [
+        100,
+        200
+      ]
+    },
+    {
+      "name": "Google: PaLM 2 Code Chat",
+      "href": "/google/palm-2-codechat-bison",
+      "code": "google/palm-2-codechat-bison",
+      "prices": [
+        100,
+        200
+      ]
+    },
+    {
+      "name": "MythoMax 13B (free)",
+      "href": "/gryphe/mythomax-l2-13b:free",
+      "code": "gryphe/mythomax-l2-13b:free",
+      "prices": [
+        0,
+        0
+      ]
+    },
+    {
+      "name": "MythoMax 13B",
+      "href": "/gryphe/mythomax-l2-13b",
+      "code": "gryphe/mythomax-l2-13b",
+      "prices": [
+        6.5,
+        6.5
+      ]
+    },
+    {
+      "name": "Meta: Llama 2 13B Chat",
+      "href": "/meta-llama/llama-2-13b-chat",
+      "code": "meta-llama/llama-2-13b-chat",
+      "prices": [
+        22,
+        22
+      ]
+    },
+    {
+      "name": "Meta: Llama 2 70B Chat",
+      "href": "/meta-llama/llama-2-70b-chat",
+      "code": "meta-llama/llama-2-70b-chat",
+      "prices": [
+        90,
+        90
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-3.5 Turbo",
+      "href": "/openai/gpt-3.5-turbo",
+      "code": "openai/gpt-3.5-turbo",
+      "prices": [
+        50,
+        150
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-3.5 Turbo 16k",
+      "href": "/openai/gpt-3.5-turbo-0125",
+      "code": "openai/gpt-3.5-turbo-0125",
+      "prices": [
+        50,
+        150
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-4",
+      "href": "/openai/gpt-4",
+      "code": "openai/gpt-4",
+      "prices": [
+        3000,
+        6000
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-4 (older v0314)",
+      "href": "/openai/gpt-4-0314",
+      "code": "openai/gpt-4-0314",
+      "prices": [
+        3000,
+        6000
+      ]
+    },
+    {
+      "name": "Inflatebot: Mag Mell R1 12B",
+      "href": "/inflatebot/mn-mag-mell-r1",
+      "code": "inflatebot/mn-mag-mell-r1",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Google: Gemini Experimental 1121",
+      "href": "/google/gemini-exp-1121",
+      "code": "google/gemini-exp-1121",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Google: Gemini Experimental 1114",
+      "href": "/google/gemini-exp-1114",
+      "code": "google/gemini-exp-1114",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "xAI: Grok 2",
+      "href": "/x-ai/grok-2",
+      "code": "x-ai/grok-2",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "xAI: Grok 2 mini",
+      "href": "/x-ai/grok-2-mini",
+      "code": "x-ai/grok-2-mini",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "EVA Qwen2.5 14B",
+      "href": "/eva-unit-01/eva-qwen-2.5-14b",
+      "code": "eva-unit-01/eva-qwen-2.5-14b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Reflection 70B",
+      "href": "/mattshumer/reflection-70b",
+      "code": "mattshumer/reflection-70b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Google: Gemini Flash 1.5 Experimental",
+      "href": "/google/gemini-flash-1.5-exp",
+      "code": "google/gemini-flash-1.5-exp",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Lynn: Llama 3 Soliloquy 7B v3 32K",
+      "href": "/lynn/soliloquy-v3",
+      "code": "lynn/soliloquy-v3",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Yi 1.5 34B Chat",
+      "href": "/01-ai/yi-1.5-34b-chat",
+      "code": "01-ai/yi-1.5-34b-chat",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "01.AI: Yi Large Turbo",
+      "href": "/01-ai/yi-large-turbo",
+      "code": "01-ai/yi-large-turbo",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "01.AI: Yi Large FC",
+      "href": "/01-ai/yi-large-fc",
+      "code": "01-ai/yi-large-fc",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "01.AI: Yi Vision",
+      "href": "/01-ai/yi-vision",
+      "code": "01-ai/yi-vision",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Google: Gemini Pro 1.5 Experimental",
+      "href": "/google/gemini-pro-1.5-exp",
+      "code": "google/gemini-pro-1.5-exp",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Dolphin Llama 3 70B 🐬",
+      "href": "/cognitivecomputations/dolphin-llama-3-70b",
+      "code": "cognitivecomputations/dolphin-llama-3-70b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Nous: Hermes 2 Theta 8B",
+      "href": "/nousresearch/hermes-2-theta-llama-3-8b",
+      "code": "nousresearch/hermes-2-theta-llama-3-8b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Sao10K: Llama 3 Stheno 8B v3.3 32K",
+      "href": "/sao10k/l3-stheno-8b",
+      "code": "sao10k/l3-stheno-8b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "NVIDIA: Nemotron-4 340B Instruct",
+      "href": "/nvidia/nemotron-4-340b-instruct",
+      "code": "nvidia/nemotron-4-340b-instruct",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Microsoft: Phi-3 Medium 4K Instruct",
+      "href": "/microsoft/phi-3-medium-4k-instruct",
+      "code": "microsoft/phi-3-medium-4k-instruct",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "StarCoder2 15B Instruct",
+      "href": "/bigcode/starcoder2-15b-instruct",
+      "code": "bigcode/starcoder2-15b-instruct",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "OpenChat 3.6 8B",
+      "href": "/openchat/openchat-8b",
+      "code": "openchat/openchat-8b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "DeepSeek-Coder-V2",
+      "href": "/deepseek/deepseek-coder",
+      "code": "deepseek/deepseek-coder",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Perplexity: Llama3 Sonar 70B",
+      "href": "/perplexity/llama-3-sonar-large-32k-chat",
+      "code": "perplexity/llama-3-sonar-large-32k-chat",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Perplexity: Llama3 Sonar 70B Online",
+      "href": "/perplexity/llama-3-sonar-large-32k-online",
+      "code": "perplexity/llama-3-sonar-large-32k-online",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "DeepSeek V2.5",
+      "href": "/deepseek/deepseek-chat-v2.5",
+      "code": "deepseek/deepseek-chat-v2.5",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Perplexity: Llama3 Sonar 8B",
+      "href": "/perplexity/llama-3-sonar-small-32k-chat",
+      "code": "perplexity/llama-3-sonar-small-32k-chat",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Perplexity: Llama3 Sonar 8B Online",
+      "href": "/perplexity/llama-3-sonar-small-32k-online",
+      "code": "perplexity/llama-3-sonar-small-32k-online",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Meta: Llama 3 8B (Base)",
+      "href": "/meta-llama/llama-3-8b",
+      "code": "meta-llama/llama-3-8b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Meta: Llama 3 70B (Base)",
+      "href": "/meta-llama/llama-3-70b",
+      "code": "meta-llama/llama-3-70b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "LLaVA v1.6 34B",
+      "href": "/liuhaotian/llava-yi-34b",
+      "code": "liuhaotian/llava-yi-34b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "OLMo 7B Instruct",
+      "href": "/allenai/olmo-7b-instruct",
+      "code": "allenai/olmo-7b-instruct",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Qwen 1.5 110B Chat",
+      "href": "/qwen/qwen-110b-chat",
+      "code": "qwen/qwen-110b-chat",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Qwen 1.5 72B Chat",
+      "href": "/qwen/qwen-72b-chat",
+      "code": "qwen/qwen-72b-chat",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Qwen 1.5 32B Chat",
+      "href": "/qwen/qwen-32b-chat",
+      "code": "qwen/qwen-32b-chat",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Qwen 1.5 14B Chat",
+      "href": "/qwen/qwen-14b-chat",
+      "code": "qwen/qwen-14b-chat",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Qwen 1.5 7B Chat",
+      "href": "/qwen/qwen-7b-chat",
+      "code": "qwen/qwen-7b-chat",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Qwen 1.5 4B Chat",
+      "href": "/qwen/qwen-4b-chat",
+      "code": "qwen/qwen-4b-chat",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Snowflake: Arctic Instruct",
+      "href": "/snowflake/snowflake-arctic-instruct",
+      "code": "snowflake/snowflake-arctic-instruct",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Fireworks: FireLLaVA 13B",
+      "href": "/fireworks/firellava-13b",
+      "code": "fireworks/firellava-13b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Lynn: Llama 3 Soliloquy 8B v2",
+      "href": "/lynn/soliloquy-l3",
+      "code": "lynn/soliloquy-l3",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Zephyr 141B-A35B",
+      "href": "/huggingfaceh4/zephyr-orpo-141b-a35b",
+      "code": "huggingfaceh4/zephyr-orpo-141b-a35b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Mistral: Mixtral 8x22B (base)",
+      "href": "/mistralai/mixtral-8x22b",
+      "code": "mistralai/mixtral-8x22b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Databricks: DBRX 132B Instruct",
+      "href": "/databricks/dbrx-instruct",
+      "code": "databricks/dbrx-instruct",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Nous: Hermes 2 Mistral 7B DPO",
+      "href": "/nousresearch/nous-hermes-2-mistral-7b-dpo",
+      "code": "nousresearch/nous-hermes-2-mistral-7b-dpo",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Meta: CodeLlama 70B Instruct",
+      "href": "/meta-llama/codellama-70b-instruct",
+      "code": "meta-llama/codellama-70b-instruct",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "RWKV v5: Eagle 7B",
+      "href": "/recursal/eagle-7b",
+      "code": "recursal/eagle-7b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Yi 34B 200K",
+      "href": "/01-ai/yi-34b-200k",
+      "code": "01-ai/yi-34b-200k",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Nous: Hermes 2 Mixtral 8x7B SFT",
+      "href": "/nousresearch/nous-hermes-2-mixtral-8x7b-sft",
+      "code": "nousresearch/nous-hermes-2-mixtral-8x7b-sft",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Chronos Hermes 13B v2",
+      "href": "/austism/chronos-hermes-13b",
+      "code": "austism/chronos-hermes-13b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Bagel 34B v0.2",
+      "href": "/jondurbin/bagel-34b",
+      "code": "jondurbin/bagel-34b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Noromaid Mixtral 8x7B Instruct",
+      "href": "/neversleep/noromaid-mixtral-8x7b-instruct",
+      "code": "neversleep/noromaid-mixtral-8x7b-instruct",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Nous: Hermes 2 Yi 34B",
+      "href": "/nousresearch/nous-hermes-yi-34b",
+      "code": "nousresearch/nous-hermes-yi-34b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "RWKV v5 World 3B",
+      "href": "/rwkv/rwkv-5-world-3b",
+      "code": "rwkv/rwkv-5-world-3b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "RWKV v5 3B AI Town",
+      "href": "/recursal/rwkv-5-3b-ai-town",
+      "code": "recursal/rwkv-5-3b-ai-town",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "StripedHyena Nous 7B",
+      "href": "/togethercomputer/stripedhyena-nous-7b",
+      "code": "togethercomputer/stripedhyena-nous-7b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "StripedHyena Hessian 7B (base)",
+      "href": "/togethercomputer/stripedhyena-hessian-7b",
+      "code": "togethercomputer/stripedhyena-hessian-7b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Psyfighter v2 13B",
+      "href": "/koboldai/psyfighter-13b-2",
+      "code": "koboldai/psyfighter-13b-2",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Yi 34B Chat",
+      "href": "/01-ai/yi-34b-chat",
+      "code": "01-ai/yi-34b-chat",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Yi 34B (base)",
+      "href": "/01-ai/yi-34b",
+      "code": "01-ai/yi-34b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Yi 6B (base)",
+      "href": "/01-ai/yi-6b",
+      "code": "01-ai/yi-6b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "MythoMist 7B",
+      "href": "/gryphe/mythomist-7b",
+      "code": "gryphe/mythomist-7b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Nous: Hermes 2 Vision 7B (alpha)",
+      "href": "/nousresearch/nous-hermes-2-vision-7b",
+      "code": "nousresearch/nous-hermes-2-vision-7b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Cinematika 7B (alpha)",
+      "href": "/openrouter/cinematika-7b",
+      "code": "openrouter/cinematika-7b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Nous: Capybara 7B",
+      "href": "/nousresearch/nous-capybara-7b",
+      "code": "nousresearch/nous-capybara-7b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Psyfighter 13B",
+      "href": "/jebcarter/psyfighter-13b",
+      "code": "jebcarter/psyfighter-13b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Neural Chat 7B v3.1",
+      "href": "/intel/neural-chat-7b",
+      "code": "intel/neural-chat-7b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Anthropic: Claude Instant v1.1",
+      "href": "/anthropic/claude-instant-1.1",
+      "code": "anthropic/claude-instant-1.1",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "LLaVA 13B",
+      "href": "/liuhaotian/llava-13b",
+      "code": "liuhaotian/llava-13b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Nous: Capybara 34B",
+      "href": "/nousresearch/nous-capybara-34b",
+      "code": "nousresearch/nous-capybara-34b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-4 Vision",
+      "href": "/openai/gpt-4-vision-preview",
+      "code": "openai/gpt-4-vision-preview",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "lzlv 70B",
+      "href": "/lizpreciatior/lzlv-70b-fp16-hf",
+      "code": "lizpreciatior/lzlv-70b-fp16-hf",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Auto Router",
+      "href": "/openrouter/auto",
+      "code": "openrouter/auto",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "OpenHermes 2 Mistral 7B",
+      "href": "/teknium/openhermes-2-mistral-7b",
+      "code": "teknium/openhermes-2-mistral-7b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Mistral OpenOrca 7B",
+      "href": "/open-orca/mistral-7b-openorca",
+      "code": "open-orca/mistral-7b-openorca",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Nous: Hermes 70B",
+      "href": "/nousresearch/nous-hermes-llama2-70b",
+      "code": "nousresearch/nous-hermes-llama2-70b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Synthia 70B",
+      "href": "/migtissera/synthia-70b",
+      "code": "migtissera/synthia-70b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Meta: CodeLlama 34B Instruct",
+      "href": "/meta-llama/codellama-34b-instruct",
+      "code": "meta-llama/codellama-34b-instruct",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Phind: CodeLlama 34B v2",
+      "href": "/phind/phind-codellama-34b",
+      "code": "phind/phind-codellama-34b",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Anthropic: Claude Instant v1",
+      "href": "/anthropic/claude-instant-1",
+      "code": "anthropic/claude-instant-1",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Anthropic: Claude v1",
+      "href": "/anthropic/claude-1",
+      "code": "anthropic/claude-1",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Anthropic: Claude v1.2",
+      "href": "/anthropic/claude-1.2",
+      "code": "anthropic/claude-1.2",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "Anthropic: Claude Instant v1.0",
+      "href": "/anthropic/claude-instant-1.0",
+      "code": "anthropic/claude-instant-1.0",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "OpenAI: Shap-e",
+      "href": "/openai/shap-e",
+      "code": "openai/shap-e",
+      "prices": [
+        "--",
+        "--"
+      ]
+    },
+    {
+      "name": "OpenAI: GPT-3.5 Turbo (older v0301)",
+      "href": "/openai/gpt-3.5-turbo-0301",
+      "code": "openai/gpt-3.5-turbo-0301",
+      "prices": [
+        "--",
+        "--"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "model-fetcher",
+  "version": "1.0.0",
+  "description": "some scrapers / api's for fetching LLM provider models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^24.4.0"
+  }
+}
